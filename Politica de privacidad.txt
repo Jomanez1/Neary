@@ -1,0 +1,45 @@
+Política de Privacidad de Neary Amigos
+Última actualización: 1/8/2026
+En Neary Amigos, la privacidad de nuestros usuarios es nuestra máxima prioridad. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos su información cuando utiliza nuestra aplicación móvil.
+1. Recopilación de Datos de Ubicación (Crucial)
+Neary Amigos es una aplicación de geolocalización social. Para funcionar, requerimos acceso a su ubicación precisa:
+•
+Ubicación en primer plano: Recopilamos su latitud y longitud mientras la aplicación está abierta para mostrar su posición en el mapa y calcular la distancia con sus amigos.
+•
+Ubicación en segundo plano: Si usted activa voluntariamente el modo "Segundo Plano", la aplicación recopilará sus datos de ubicación incluso cuando la aplicación esté cerrada o no se esté utilizando. Esto es necesario para que sus amigos puedan ver su posición actualizada y recibir alertas de proximidad en tiempo real.
+•
+Finalidad: Estos datos solo se utilizan para las funciones principales de la app y solo se comparten con los usuarios con los que usted haya vinculado su código de 6 dígitos. No vendemos ni cedemos estos datos a terceros.
+2. Información del Perfil
+Recopilamos la siguiente información que usted proporciona:
+•
+Nombre de usuario: Para que sus amigos le identifiquen.
+•
+Foto de perfil: Almacenada en Firebase Storage para mostrar su imagen en el mapa y lista de amigos.
+•
+Estado de batería: Recopilamos el porcentaje de batería para informar a sus amigos de su estado de conexión.
+3. Publicidad (Google AdMob)
+Neary Amigos utiliza Google AdMob para mostrar anuncios.
+•
+AdMob puede recopilar y utilizar datos como el ID de publicidad de su dispositivo (AAID), cookies y datos de ubicación aproximada para mostrar anuncios relevantes.
+•
+Usted puede gestionar sus preferencias de anuncios en los ajustes de Google de su dispositivo.
+4. Servicios de Terceros
+Utilizamos los siguientes servicios de Google:
+•
+Firebase (Auth, Firestore, Storage): Para gestionar la seguridad, la base de datos de amigos y las fotos.
+•
+Google Maps SDK: Para visualizar las ubicaciones en el mapa.
+•
+Google Analytics for Firebase: Para analizar de forma anónima cómo se usa la app y mejorar su rendimiento.
+5. Control del Usuario y Derechos
+Usted tiene el control total sobre sus datos:
+•
+Modo Fantasma: Puede dejar de compartir su ubicación con cualquier amigo en cualquier momento.
+•
+Eliminación: Puede eliminar a cualquier amigo, lo que borrará el vínculo de datos instantáneamente.
+•
+Permisos: Puede revocar los permisos de ubicación desde los ajustes de Android en cualquier momento.
+6. Seguridad de los Datos
+Sus datos se transmiten de forma segura mediante protocolos encriptados y se almacenan en los servidores protegidos de Google Firebase.
+7. Contacto
+Si tiene alguna pregunta sobre esta política, puede contactarnos en: Jomanez@gmail.com
